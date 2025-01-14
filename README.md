@@ -51,7 +51,7 @@
 <!--profile visit count-->
 
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=Alpardimedia&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+  <a href="https://alpardimedia.com" target="_blank">Visita mi página web: alpardimedia.com</a>
 </div>
 
 <!--horizontal divider(gradiant)-->
